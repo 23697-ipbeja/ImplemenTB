@@ -1,3 +1,14 @@
+#                                               
+#   IPBEJA: ESTIG                               
+#   MESI 22/23                                  
+#   Tecnologias Biométricas    
+#   Titulo: Implementação de um sistema biométrico                
+#   Autores: David Henriques (23697)            
+#             Joao Tavanez (3109)               
+# 
+#            
+
+
 import sqlite3
 import bcrypt
 #from pathlib import Path
